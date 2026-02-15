@@ -30,7 +30,6 @@ public class Solution {
                 hashMap.put(nums[i],i);
             }
         }
-        System.out.println(hashMap);
         return new int[]{};
     }
 }
