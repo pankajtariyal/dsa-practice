@@ -3,11 +3,11 @@
 ## Arrays (6)
 - [X] 01 Two Sum
 - [X] 02 Contains Duplicate
-- [ ] 03 Best Time to Buy and Sell Stock
+- [X] 03 Best Time to Buy and Sell Stock
 - [ ] 04 Maximum Subarray
 - [ ] 05 Move Zeroes
 - [ ] 06 Rotate Array
 
 ## Profiles
 - LeetCode: https://leetcode.com/u/AbhishekTadiwal/
-- GitHub: 
+- GitHub: https://github.com/pankajtariyal
