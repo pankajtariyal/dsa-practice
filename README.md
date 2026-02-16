@@ -6,7 +6,7 @@
 - [X] 03 Best Time to Buy and Sell Stock
 - [X] 04 Maximum Subarray
 - [X] 05 Move Zeroes
-- [ ] 06 Rotate Array
+- [X] 06 Rotate Array
 
 ## Profiles
 - LeetCode: https://leetcode.com/u/AbhishekTadiwal/

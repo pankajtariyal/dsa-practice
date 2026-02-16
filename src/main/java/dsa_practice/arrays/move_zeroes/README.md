@@ -66,10 +66,7 @@ if (nums.length <= 1) return;
 
 ```
 
-Notes
-
-This solution keeps the relative order of non-zero numbers.
-
-If slow == fast, the swap still works (it swaps an element with itself).
-
-This is a classic use of two pointers for in-place filtering / partitioning.
+**Notes:**
+- This solution keeps the relative order of non-zero numbers.
+- If slow == fast, the swap still works (it swaps an element with itself).
+- This is a classic use of two pointers for in-place filtering / partitioning.
